@@ -1,7 +1,7 @@
 # HOI4-Event-Generator
 Event generation app for HOI4 modders
 
-#TODO 
+# TODO 
 
 * Add all parameters to event GUI
 * Create seperate screens for each layer of content or just make it look less shitty
