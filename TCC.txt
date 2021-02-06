@@ -1,0 +1,22 @@
+add_namespace = Goldwater
+
+#EVENTS IN NAMESPACE 'Goldwater'
+
+#Barry Gets Lucky!
+country_event = {
+	id = Goldwater.0
+	title = Goldwater.0.t #Barry Gets Lucky!
+	desc = Goldwater.0.d #placeholder desc
+	trigger = {}
+
+}
+
+#Barry Poops His Pants!
+country_event = {
+	id = Goldwater.1
+	title = Goldwater.1.t #Barry Poops His Pants!
+	desc = Goldwater.1.d #placeholder desc
+	trigger = {}
+
+}
+
