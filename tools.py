@@ -1,5 +1,7 @@
 import os,io
-import tkinter as tk
+
+def IntToBool(n):
+    return False if n == 0 else True
 
 def GetNamesAsList(l):
     out = []
